@@ -15,7 +15,7 @@ Java Buzz is a modern coffee shop website with:
 - JSON
 
 ## Author
-Your Name
+Numrah Ahsan
 
 ## GitHub Repository
-https://github.com/yourusername/javabuzz
+https://github.com/Numrahahsan3/Javabuzz.git
